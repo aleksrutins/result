@@ -1,0 +1,8 @@
+{
+    "name": "@asr/result",
+    "version": "0.1.0",
+    "exports": "./mod.ts",
+    "publish": {
+        "exclude": ["test.ts"]
+    }
+}
